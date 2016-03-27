@@ -1,0 +1,5 @@
+*.Rproj
+*.db
+cache/*
+.Rhistory
+.Rproj.user/*
